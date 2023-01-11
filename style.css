@@ -750,8 +750,8 @@ h4 {
     font-weight: bold;
     font-size: 15px;
 }
-.col-sm-4, .col-sm-4 li a{
-    color:#000000;
+.col-sm-4, .col-sm-4 a{
+    color: #000000;
 }
 
 
@@ -838,7 +838,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
